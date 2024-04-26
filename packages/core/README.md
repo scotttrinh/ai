@@ -6,7 +6,7 @@ The Vercel AI SDK is **a library for building AI-powered streaming text and chat
 
 - React, Svelte, Vue and Solid helpers for streaming text responses and building chat and completion UIs
 - React Server Components API for streaming [Generative UI](https://vercel.com/blog/ai-sdk-3-generative-ui)
-- First-class support for [OpenAI](https://openai.com), [Anthropic](https://www.anthropic.com), [Mistral](https://mistral.ai), [Perplexity](https://perplexity.ai), [AWS Bedrock](https://aws.amazon.com/bedrock/), [Azure](https://ai.azure.com), [Google Gemini](https://ai.google.dev), [Hugging Face](https://huggingface.co), [Fireworks](https://app.fireworks.ai), [Cohere](https://cohere.com), [LangChain](https://js.langchain.com/docs), [Replicate](https://replicate.com), Ollama, and more.
+- First-class support for [OpenAI](https://openai.com), [Anthropic](https://www.anthropic.com), [Mistral](https://mistral.ai), [Perplexity](https://perplexity.ai), [AWS Bedrock](https://aws.amazon.com/bedrock/), [Azure](https://ai.azure.com), [Google Gemini](https://ai.google.dev), [Hugging Face](https://huggingface.co), [Fireworks](https://app.fireworks.ai), [Cohere](https://cohere.com), [LangChain](https://js.langchain.com/docs), [Replicate](https://replicate.com), [EdgeDB](https://edgedb.com), Ollama, and more.
 - Node.js, Serverless, and [Edge Runtime](https://edge-runtime.vercel.app/) support
 - Lifecycle callbacks for saving completed streaming responses to a database (in the same request)
 

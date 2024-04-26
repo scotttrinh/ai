@@ -6,6 +6,7 @@ export * from './anthropic-stream';
 export * from './assistant-response';
 export * from './aws-bedrock-stream';
 export * from './cohere-stream';
+export * from './edgedb-stream';
 export * from './google-generative-ai-stream';
 export * from './huggingface-stream';
 export * from './inkeep-stream';
